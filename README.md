@@ -1,3 +1,2 @@
-# helloHimza
-For my best pal, Himza.
-This was ssupposed to be a starting point but it ended up being exactly that. Oops.
+# Python
+A bunch of python scripts intended for educational use only.
